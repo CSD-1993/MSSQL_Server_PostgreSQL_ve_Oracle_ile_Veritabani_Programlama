@@ -25,7 +25,7 @@ Dersler hafta içi __Cuma__ günleri saat __19-00 – 23-00__ saatleri arasında
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/kurs-icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
