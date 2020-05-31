@@ -25,7 +25,7 @@ Dersler hafta içi __Cuma__ günleri saat __19-00 – 23-00__ saatleri arasında
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/kurs_icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQL_ve_Oracle_ile_Veritabani_Programlama/blob/master/kurs_icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -76,4 +76,4 @@ Programın toplam ücreti **KDV HARİÇ 2900 TL**‘dir. Öğrenci olanlara _(ö
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZcvd-qsqzItGNGRD5SqPwReLxvAx28fYf4T). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQL_ve_Oracle_ile_Veritabani_Programlama/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
