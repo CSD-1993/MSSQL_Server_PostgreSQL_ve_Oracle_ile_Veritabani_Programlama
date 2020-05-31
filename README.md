@@ -8,7 +8,7 @@
 + Toplam kurs süresi __90__ saattir. Dersler __Cuma__ günleri __19:00 - 23:00__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md)
-+ [Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZcvd-qsqzItGNGRD5SqPwReLxvAx28fYf4T)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/sss.md)
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZcvd-qsqzItGNGRD5SqPwReLxvAx28fYf4T)
