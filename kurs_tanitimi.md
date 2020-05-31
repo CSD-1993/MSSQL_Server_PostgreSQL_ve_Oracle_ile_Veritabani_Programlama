@@ -1,6 +1,6 @@
 # MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama
 
-+ Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından düzenlenmektedir. 
++ Bu kurs [__C ve Sistem Programcıları Derneği__](htpp://www.csystem.org) tarafından düzenlenmektedir. 
 
 + __Covid19 Salgını__ ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 
@@ -25,7 +25,7 @@ Dersler hafta içi __Cuma__ günleri saat __19-00 – 23-00__ saatleri arasında
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/kurs-icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQ_ve_Oracle_ile_Veritaban-_Programlama/blob/master/kurs_icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
